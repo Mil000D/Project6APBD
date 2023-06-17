@@ -1,5 +1,5 @@
 # Project 6 : Summary
-In this project following steps are needed to complete it succesfully.
+In this project following steps are needed to complete it succesfully (SQL scripts used to create tables are located in Data folder).
 1. Create a Rest API app.
 2. Prepare an endpoint using EntityFramework Core according to the requirements below: 
 * Endpoint responding to HTTP GET request sent to `/api/trips`. 
